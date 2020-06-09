@@ -76,6 +76,7 @@ public class Frame extends JFrame {
 				inPanel.setBackground(colorOfRightPanel);
 				inPanel.panelForPlanets.setBackground(colorOfRightPanel);
 				inPanel.panelForParameters.setBackground(colorOfRightPanel);
+				inPanel.buttonPanel.setBackground(colorOfRightPanel);
 				outPanel.setBackground(colorOfRightPanel);
 				outPanel.panelForLabels.setBackground(colorOfRightPanel);
 				outPanel.panelForValues.setBackground(colorOfRightPanel);
